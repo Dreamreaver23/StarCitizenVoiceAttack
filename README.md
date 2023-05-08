@@ -1,5 +1,5 @@
 # StarCitizenVoiceAttack
-My Custom John D'oh VoiceAttack Macros and Profile for Star Citizen.
+Hello everyone, TheNerdyGentleman here and here is my Custom John D'oh VoiceAttack Macros and Voice Profile for Star Citizen.
 
 [Install Voice Attack](https://voiceattack.com)
 
@@ -9,6 +9,12 @@ If you have your own VoiceAttack macros, make sure you backup everything before 
 This is made to be a standalone voice attack profile, that works by itself, and does not use the HCS Event Horizon profile whatsoever.  I have tried to create it as it's own profile, because when i was trying to get more fine detail in the custom profile I was making, the HCS Event Horizon profile kept getting in the way. Very annoying! As such, this profile uses a lot of custom keyboard hotkeys in Star Citizen. so you will need to download the layout_NerdyJohnDohVAP_exported.xml keyboard profile, Keep in mind that it also contains my custom HOSAS profile as well. 
 
 Also the custom navigation and maintenance functions in this profile are from [Chadarius](https://github.com/Chadarius/StarCitizenVoiceAtk), Please be sure to show him a lot of love, these functions are amazing. Also to keep the flow of the Instructions similar to Chadarius' instructions I have used his readme as a starting point, so if you see the similarities, that's why. His is very clean and concise. 
+
+## Download The Files
+In order to have John D'oh sit with you in your ship and copilot, you will need to download all of the above files.
+
+## Add the Voice Files to Voice Attack
+Extract the "John VoicePack" rar file into the Voice attack Sounds folder. Mine is located at C:\Program Files\VoiceAttack\Sounds\John VoicePack. This is required in order for the voice commands to link properly to the correct sound files.
 
 ## Create New Profile
 First create a new profile to hold the John D'oh macros for Star Citizen. I created a new profile named "Nerdy John". 
