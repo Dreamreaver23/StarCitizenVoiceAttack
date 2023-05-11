@@ -1,3 +1,6 @@
+##UPDATE
+I'm Working on Remaking this Profile, so that it doen'st overwrite any of the default keyboard keybinds, as that can really screw with people's gameplay, lol. it should be updated today.
+
 # StarCitizenVoiceAttack
 Hello everyone, TheNerdyGentleman here and here is my Custom John D'oh VoiceAttack Macros and Voice Profile for Star Citizen. This profile includes 454 unique voice responses from my Star Citizen fictitious character John D'oh, and 198 Commands to control your ship in the verse
 
