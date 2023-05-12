@@ -1,5 +1,5 @@
 ## UPDATE
-I'm Working on Remaking this Profile, so that it doen'st overwrite any of the default keyboard keybinds, as that can really screw with people's gameplay, lol. it should be updated today.
+I updated the exported Keybinds for Star Citizen and the VA profile, so please redownload the new ones if you have a previous version. The new version does not touch any of the stock KBM hotkeys for Star Citizen, so you should be perfectly fine if you use KBM to play the game. 
 
 # StarCitizenVoiceAttack
 Hello everyone, TheNerdyGentleman here and here is my Custom John D'oh VoiceAttack Macros and Voice Profile for Star Citizen. This profile includes 454 unique voice responses from my Star Citizen fictitious character John D'oh, and 198 Commands to control your ship in the verse
